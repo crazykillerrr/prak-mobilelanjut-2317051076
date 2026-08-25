@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'Hallo Nama Saya Dhimas',
+            'Hallo Nama Saya UHUYYYY',
             style: TextStyle(fontSize: 24),
           ),
         ),
